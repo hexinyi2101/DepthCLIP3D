@@ -3,6 +3,9 @@
 **📄 Paper:** _DepthCLIP3D: A Unified Approach for 3D Visual Understanding with Depth_  
 Xinyi He, Yuanyuan Ran, Xiangyu Xu  
 
+📌 This paper has been accepted to ICASSP 2026.
+
+
 ![DepthCLIP3D Overview](./allmodelv3.png)
 
 ## 📝 Abstract
