@@ -1,7 +1,5 @@
 # DepthCLIP3D: A Unified Approach for 3D Visual Understanding with Depth
 
-Official repository for our paper:
-
 **📄 Paper:** _DepthCLIP3D: A Unified Approach for 3D Visual Understanding with Depth_  
 Xinyi He, Yuanyuan Ran, Xiangyu Xu  
 
